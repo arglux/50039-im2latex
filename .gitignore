@@ -1,4 +1,7 @@
+/data_parser/
+/formula_images/
 /data/
+/tar/
 *.lst
 *tar.gz
 
