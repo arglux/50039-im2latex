@@ -29,15 +29,15 @@ class CNN(nn.Module):
 		)
 
 	def encode(self, images):
-		latent_rep = self.cnn(images) # [B, C=128, H, W]
+		latent_rep = self.cnn(images) # [B, C=256, H, W]
 		batch_size, channel_size, img_height, img_width = latent_rep.shape
 		# latent_rep = add_positional_features(latent_rep)
-		latent_rep = latent_rep.permute(0, 2, 3, 1) # [B, H, W, C=128]
-		latent_rep = latent_rep.view(batch_size, img_height	* img_width, channel_size)
 		return latent_rep, batch_size, channel_size, (img_height, img_width)
 
 	def forward(self, images):
-		return self.encode(images)
+		latent_rep, batch_size, channel_size, img_size = self.encode(images)
+		latent_rep = latent_rep.view(batch_size, -1)
+		return latent_rep, batch_size, channel_size, img_size
 
 if __name__ == "__main__":
 	print('running cnn_encoder.py')
@@ -49,7 +49,7 @@ if __name__ == "__main__":
 	latent_rep, _, channel_size, img_size = cnn_encoder.forward(tensor)
 
 	print(cnn_encoder)
-	print(latent_rep, latent_rep.shape)
+	print(latent_rep)
 	print(f'''
 	      out channel_size: {channel_size},
 	      out img_size: {img_size}
