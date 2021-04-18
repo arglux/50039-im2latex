@@ -33,7 +33,7 @@ class CNN(nn.Module):
 		batch_size, channel_size, img_height, img_width = latent_rep.shape
 		# latent_rep = add_positional_features(latent_rep)
 		latent_rep = latent_rep.permute(0, 2, 3, 1) # [B, H, W, C=128]
-		latent_rep = latent_rep.view(batch_size, img_height	* img_width, channel_size)
+		latent_rep = latent_rep.view(batch_size, img_height	* img_width, channel_size) # [B, H*W, C=128]
 		return latent_rep, batch_size, channel_size, (img_height, img_width)
 
 	def forward(self, images):

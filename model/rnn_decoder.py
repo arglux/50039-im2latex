@@ -4,19 +4,31 @@ import torch.nn.functional as F
 from torch import nn
 
 class RNN(nn.Module):
-	def __init__(self, embed_size, hidden_size, vocab_size, dropout_p=0.1, num_layers=1):
+	def __init__(self, vocab_size, embed_size, hidden_size, latent_rep_channel, dropout_p=0.1):
 		super(RNN, self).__init__()
+		self.lstm = nn.LSTMCell(latent_rep_channel + embed_size, embed_size)
 		self.embedding = nn.Embedding(vocab_size, embed_size)
-		self.lstm = nn.LSTM(input_size=embed_size, hidden_size=hidden_size, num_layers=num_layers, batch_first=True)
-		self.dropout = nn.Dropout(dropout_p)
-
+		# self.dropout = nn.Dropout(dropout_p)
 		self.clf = nn.Sequential(
 			nn.Linear(self.hidden_size, self.output_size),
 			nn.ReLU(),
 			nn.LogSoftmax(dim=1)
 		)
-	def init_decoder(latent_rep):
-		h =
+
+		# lstm cell weight definitions
+		self.W_h = nn.Linear(latent_rep_channel, hidden_size)
+		self.W_c = nn.Linear(latent_rep_channel, hidden_size)
+		self.W_o = nn.Linear(latent_rep_channel, hidden_size)
+
+	def init_lstm(latent_rep):
+		"""
+		initialize lstm at t=0 using the mean of latent_rep [B, H*W, C=128]
+		"""
+		mean_latent_rep = latent_rep.mean(dim=1)
+		h_0 = torch.tanh(self.W_h(mean_latent_rep)) # [B, hidden_size]
+		c_0 = torch.tanh(self.W_c(mean_latent_rep))
+		o_0 = torch.tanh(self.W_o(mean_latent_rep))
+		return (h_0, c_0), o_0
 
 	def step_decode(self, latent_rep, target):
 		e = self.embedding(target).view(1, 1, -1)
