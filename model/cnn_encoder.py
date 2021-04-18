@@ -45,8 +45,8 @@ if __name__ == "__main__":
 	torch.manual_seed(0)
 	device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 	cnn_encoder = CNN().to(device)
-	tensor = torch.rand(size=(8, 1, 20, 20)).to(device)
-	latent_rep, _, channel_size, img_size = cnn_encoder.forward(tensor)
+	images = torch.rand(size=(8, 1, 20, 20)).to(device)
+	latent_rep, _, channel_size, img_size = cnn_encoder.forward(images)
 
 	print(cnn_encoder)
 	print(latent_rep, latent_rep.shape)
