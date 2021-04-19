@@ -13,6 +13,9 @@ class Attention(nn.Module):
 	"""
 	def __init__(self, batch_size, hidden_size, method="dot", mlp=False):
 		super(Attention, self).__init__()
+			self.method = method
+			self.hidden_size = hidden_size
+
 			if method == 'dot':
 				pass
 			elif method == 'general':
@@ -76,13 +79,13 @@ class Attention(nn.Module):
 			return out.bmm(self.va.unsqueeze(2)).squeeze(-1)
 
 		else:
-		    raise NotImplementedError
+			raise NotImplementedError
 
 	def extra_repr(self):
 		return f'score={self.method}, mlp_preprocessing={self.mlp}'
 
 if __name__ == "__main__":
-	print('running rnn_decoder.py')
+	print('running attention.py')
 
 	torch.manual_seed(0)
 	device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

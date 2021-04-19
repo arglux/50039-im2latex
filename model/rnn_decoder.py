@@ -32,6 +32,7 @@ class RNN(nn.Module):
 		(h_t, c_t), o_t = lstm_states
 		embedding = self.embedding(target) # [B, e]
 		inp = torch.cat([o_t, hidden_size], dim=1) # [B, h+e]
+
 		(h_t, c_t) = self.lstm(inp, (h_t, c_t))
 		h_t = self.dropout(h_t)
 		c_t = self.dropout(c_t)
