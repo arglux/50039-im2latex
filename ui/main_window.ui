@@ -93,9 +93,9 @@
      <height>341</height>
     </rect>
    </property>
-   <layout class="QVBoxLayout" name="canvasLayout_2"/>
+   <layout class="QVBoxLayout" name="outputImageLayout"/>
   </widget>
-  <widget class="QLineEdit" name="filePathEdit_2">
+  <widget class="QLineEdit" name="latexFormulaEdit">
    <property name="geometry">
     <rect>
      <x>10</x>
