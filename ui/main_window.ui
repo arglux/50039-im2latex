@@ -154,7 +154,7 @@
     <string>Load Image</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="translateButton_2">
+  <widget class="QPushButton" name="renderButton">
    <property name="geometry">
     <rect>
      <x>960</x>

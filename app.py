@@ -1,4 +1,5 @@
 import sys
+import sympy
 from pathlib import Path
 from datetime import datetime
 
@@ -33,6 +34,7 @@ class Main(qtw.QWidget, Ui_Form):
 		self.browseImageButton.clicked.connect(self.browse_image)
 		self.loadImageButton.clicked.connect(self.load_image)
 		self.translateButton.clicked.connect(self.translate_to_latex)
+		self.renderButton.clicked.connect(self.render_latex)
 
 		# auto-complete feauture
 		self.filePathEdit.setText(self.file_path)
@@ -45,10 +47,11 @@ class Main(qtw.QWidget, Ui_Form):
 		                                                 "Image files (*.jpg *.png)")[0]
 
 		# self.file_path = "./data/formula_images/0000ca7c3d3830b_basic.png" # for testing
+
 		# check if path is loaded properly, then update and load image
 		if not self.file_path: return
 		self.filePathEdit.setText(self.file_path)
-		print(self.file_path)
+		print("file_path:", self.file_path)
 		self.load_image()
 
 	def load_image(self):
@@ -64,21 +67,48 @@ class Main(qtw.QWidget, Ui_Form):
 			print("File not found!")
 			return
 
-		# load image, set as label, align center and show label
-		self.image = qtg.QPixmap(self.file_path)
-		self.image_label = qtw.QLabel()
-		self.image_label.setPixmap(self.image)
-		self.inputImageLayout.addWidget(self.image_label)
-		self.inputImageLayout.setAlignment(qtc.Qt.AlignHCenter)
+		self.inp_image = ''
+		self.inp_label = ''
+		self._load_image(self.file_path, self.inputImageLayout, self.inp_image, self.inp_label)
+
+	def _load_image(self, file_path, layout, image, label):
+		"""
+		load image as pixmap, set as label, align center and show label
+		"""
+		image = qtg.QPixmap(file_path)
+		image_label = qtw.QLabel()
+		image_label.setPixmap(image)
+		layout.addWidget(image_label)
+		layout.setAlignment(qtc.Qt.AlignHCenter)
 		self.show()
 
 	def translate_to_latex(self):
 		"""
-		given a latext_text, update the formula box
+		get latex translation, update latex_text, then update the formula box
 		"""
-		self.latex_text = "\\int {a^{2}+b^{2}} = \frac{c^{2}}{d^{2}}"
+		# get latext_text translation and update line edit
+		self.latex_text = r"$${}$$".format(r"\int {a^{2}+b^{2}} = \frac{c^{2}}{d^{2}}")
 		self.latexFormulaEdit.setText(self.latex_text)
-		print(self.latex_text)
+		print("latext_text:", self.latex_text)
+
+	def render_latex(self):
+		"""
+		given latex_text, render png
+		"""
+		self.clear_layout(self.outputImageLayout)
+
+		# render image and save as png
+		now = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+		self.out_path = f"./data/output/{now}.png"
+
+		try:
+			latex = sympy.preview(self.latex_text, viewer='file', filename=self.out_path)
+		except Error as e:
+			print(f'Error! {e}')
+
+		self.out_image = ''
+		self.out_label = ''
+		self._load_image(self.out_path, self.outputImageLayout, self.out_image, self.out_label)
 
 	def center_window(self):
 		"""
