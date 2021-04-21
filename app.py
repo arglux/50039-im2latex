@@ -39,22 +39,19 @@ class Main(qtw.QWidget, Ui_Form):
 
 	def browse_image(self):
 		"""
-		browse image, get its path and update the formula box
+		opens dialog box to browse image, get its path and update the formula box
 		"""
-		self.file_path = "./data/formula_images/0000ca7c3d3830b_basic.png"
+		self.file_path = qtw.QFileDialog.getOpenFileName(self, 'Open file', '.',
+		                                                 "Image files (*.jpg *.png)")[0]
+
+		# check if path is loaded properly, then update
+		if not self.file_path: return
 		self.filePathEdit.setText(self.file_path)
 		print(self.file_path)
 
 	def load_image(self):
 		"""
-		loads stock data .csv from inputted filepath string on the GUI
-		as StockData object, also autocompletes all inputs
-		using information provided by the csv.
-		Error handling
-			invalid filepath :
-				empty filepath or file could not be found.
-			invalid .csv :
-				.csv file is empty, missing date column, etc.
+		loads image if valid
 		"""
 		self.clear_layout(self.inputImageLayout)
 
@@ -62,6 +59,7 @@ class Main(qtw.QWidget, Ui_Form):
 		self.file_path = self.filePathEdit.text()
 		if not Path(self.file_path).is_file():
 			self.latexFormulaEdit.setText("File not found!")
+			print("File not found!")
 			return
 
 		# load image and show as label
