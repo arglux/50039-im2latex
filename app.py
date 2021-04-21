@@ -41,7 +41,7 @@ class Main(qtw.QWidget, Ui_Form):
 		"""
 		browse image, get its path and update the formula box
 		"""
-		self.file_path = "../data/formula_images/0000ca7c3d3830b_basic.png"
+		self.file_path = "./data/formula_images/0000ca7c3d3830b_basic.png"
 		self.filePathEdit.setText(self.file_path)
 		print(self.file_path)
 
@@ -56,9 +56,13 @@ class Main(qtw.QWidget, Ui_Form):
 			invalid .csv :
 				.csv file is empty, missing date column, etc.
 		"""
-		self.file_path = Path(self.filePathEdit.text())
-		image_label = qtw.QLabel(self)
-		image = qtg.QPixmap(self.file_path)
+		self.file_path = self.filePathEdit.text()
+		if Path(self.file_path).is_file(): self.latexFormulaEdit.setText("File found!")
+		self.image_label = qtw.QLabel()
+		self.image = qtg.QPixmap(self.file_path)
+		self.image_label.setPixmap(self.image)
+		self.inputImageLayout.addWidget(self.image_label)
+		self.show()
 
 	def translate_to_latex(self):
 		"""
