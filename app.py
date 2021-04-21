@@ -56,10 +56,17 @@ class Main(qtw.QWidget, Ui_Form):
 			invalid .csv :
 				.csv file is empty, missing date column, etc.
 		"""
+		self.clear_layout(self.inputImageLayout)
+
+		# check if path has leads to image, if not exit early
 		self.file_path = self.filePathEdit.text()
-		if Path(self.file_path).is_file(): self.latexFormulaEdit.setText("File found!")
-		self.image_label = qtw.QLabel()
+		if not Path(self.file_path).is_file():
+			self.latexFormulaEdit.setText("File not found!")
+			return
+
+		# load image and show as label
 		self.image = qtg.QPixmap(self.file_path)
+		self.image_label = qtw.QLabel()
 		self.image_label.setPixmap(self.image)
 		self.inputImageLayout.addWidget(self.image_label)
 		self.show()
@@ -72,7 +79,7 @@ class Main(qtw.QWidget, Ui_Form):
 		self.latexFormulaEdit.setText(self.latex_text)
 		print(self.latex_text)
 
-	def center(self):
+	def center_window(self):
 		"""
 		centers the fixed main window size according to user screen size
 		"""
@@ -85,9 +92,15 @@ class Main(qtw.QWidget, Ui_Form):
 		self.setFixedSize(main_window.width(), main_window.height())
 		self.move(x, y)
 
+	def clear_layout(self, layout):
+		while layout.count() > 0:
+			exist = layout.takeAt(0)
+			if not exist: continue
+			else: exist.widget().deleteLater()
+
 if __name__ == "__main__":
 	app = qtw.QApplication([])
 	main = Main()
-	main.center()
+	main.center_window()
 	main.show()
 	sys.exit(app.exec_())
