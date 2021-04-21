@@ -1,0 +1,4224 @@
+('C:\\Users\\Calvin Yusnoveri\\Desktop\\SUTD Capstone '
+ 'T1\\50.039\\50039-im2latex\\build\\app\\PYZ-00.pyz',
+ [('os',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('ui.main_window',
+   'C:\\Users\\Calvin Yusnoveri\\Desktop\\SUTD Capstone '
+   'T1\\50.039\\50039-im2latex\\ui\\main_window.py',
+   'PYMODULE'),
+  ('ui', '-', 'PYMODULE'),
+  ('PyQt5',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('sympy',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\__init__.py',
+   'PYMODULE'),
+  ('sympy.interactive',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\interactive\\__init__.py',
+   'PYMODULE'),
+  ('sympy.interactive.session',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\interactive\\session.py',
+   'PYMODULE'),
+  ('sympy.utilities.misc',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\misc.py',
+   'PYMODULE'),
+  ('sympy.core.decorators',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\decorators.py',
+   'PYMODULE'),
+  ('sympy.utilities.exceptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.core.compatibility',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\compatibility.py',
+   'PYMODULE'),
+  ('sympy.utilities.iterables',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\iterables.py',
+   'PYMODULE'),
+  ('sympy.sets.sets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\sets.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\functions.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.polyutils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyutils.py',
+   'PYMODULE'),
+  ('sympy.polys.polyoptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyoptions.py',
+   'PYMODULE'),
+  ('sympy.polys.polyerrors',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyerrors.py',
+   'PYMODULE'),
+  ('sympy.printing.str',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\str.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.permutations',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\permutations.py',
+   'PYMODULE'),
+  ('sympy.printing.repr',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\repr.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.perm_groups',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\perm_groups.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.pc_groups',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\pc_groups.py',
+   'PYMODULE'),
+  ('sympy.printing.defaults',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\defaults.py',
+   'PYMODULE'),
+  ('sympy.core._print_helpers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\_print_helpers.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.coset_table',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\coset_table.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.free_groups',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\free_groups.py',
+   'PYMODULE'),
+  ('sympy.utilities.magic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\magic.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.fp_groups',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\fp_groups.py',
+   'PYMODULE'),
+  ('sympy.matrices.normalforms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\normalforms.py',
+   'PYMODULE'),
+  ('sympy.matrices.dense',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\dense.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('sympy.matrices.immutable',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\immutable.py',
+   'PYMODULE'),
+  ('sympy.matrices.sparse',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\sparse.py',
+   'PYMODULE'),
+  ('sympy.matrices.utilities',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\utilities.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.special',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\special.py',
+   'PYMODULE'),
+  ('sympy.functions.special.tensor_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\tensor_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\__init__.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.piecewise',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\piecewise.py',
+   'PYMODULE'),
+  ('sympy.integrals.integrals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\integrals.py',
+   'PYMODULE'),
+  ('sympy.integrals.risch',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\risch.py',
+   'PYMODULE'),
+  ('sympy.integrals.rde',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\rde.py',
+   'PYMODULE'),
+  ('sympy.integrals.prde',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\prde.py',
+   'PYMODULE'),
+  ('sympy.polys.polymatrix',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polymatrix.py',
+   'PYMODULE'),
+  ('sympy.core.power',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\power.py',
+   'PYMODULE'),
+  ('sympy.core.mod',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\mod.py',
+   'PYMODULE'),
+  ('sympy.core.kind',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\kind.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.dispatcher',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\multipledispatch\\dispatcher.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.utils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\multipledispatch\\utils.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.conflict',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\multipledispatch\\conflict.py',
+   'PYMODULE'),
+  ('sympy.abc',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\abc.py',
+   'PYMODULE'),
+  ('sympy.core.alphabets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\alphabets.py',
+   'PYMODULE'),
+  ('sympy.integrals.rationaltools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\rationaltools.py',
+   'PYMODULE'),
+  ('sympy.integrals.heurisch',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\heurisch.py',
+   'PYMODULE'),
+  ('sympy.polys.constructor',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\constructor.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\numberfields.py',
+   'PYMODULE'),
+  ('sympy.printing.lambdarepr',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\lambdarepr.py',
+   'PYMODULE'),
+  ('sympy.printing.numpy',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\numpy.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.array_expressions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\array_expressions.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.utils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\utils.py',
+   'PYMODULE'),
+  ('sympy.printing.codeprinter',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\codeprinter.py',
+   'PYMODULE'),
+  ('sympy.printing.cxx',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\cxx.py',
+   'PYMODULE'),
+  ('sympy.printing.fortran',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\fortran.py',
+   'PYMODULE'),
+  ('sympy.codegen.fnodes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\codegen\\fnodes.py',
+   'PYMODULE'),
+  ('sympy.codegen',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\codegen\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.c',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\c.py',
+   'PYMODULE'),
+  ('sympy.codegen.cnodes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\codegen\\cnodes.py',
+   'PYMODULE'),
+  ('sympy.codegen.cfunctions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\codegen\\cfunctions.py',
+   'PYMODULE'),
+  ('sympy.tensor.indexed',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\indexed.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.ndim_array',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\ndim_array.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.arrayop',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\arrayop.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.sparse_ndim_array',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\sparse_ndim_array.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.mutable_ndim_array',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\mutable_ndim_array.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.dense_ndim_array',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\dense_ndim_array.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.array_derivatives',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\array_derivatives.py',
+   'PYMODULE'),
+  ('sympy.core.assumptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\assumptions.py',
+   'PYMODULE'),
+  ('sympy.core.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\core.py',
+   'PYMODULE'),
+  ('sympy.core.facts',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\facts.py',
+   'PYMODULE'),
+  ('sympy.codegen.ast',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\codegen\\ast.py',
+   'PYMODULE'),
+  ('sympy.simplify.cse_main',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\cse_main.py',
+   'PYMODULE'),
+  ('sympy.simplify.cse_opts',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\cse_opts.py',
+   'PYMODULE'),
+  ('sympy.polys.specialpolys',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\specialpolys.py',
+   'PYMODULE'),
+  ('sympy.polys.polyclasses',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyclasses.py',
+   'PYMODULE'),
+  ('sympy.polys.rootisolation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\rootisolation.py',
+   'PYMODULE'),
+  ('sympy.polys.sqfreetools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\sqfreetools.py',
+   'PYMODULE'),
+  ('sympy.polys.galoistools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\galoistools.py',
+   'PYMODULE'),
+  ('sympy.polys.polyconfig',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyconfig.py',
+   'PYMODULE'),
+  ('sympy.polys.euclidtools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\euclidtools.py',
+   'PYMODULE'),
+  ('sympy.polys.factortools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\factortools.py',
+   'PYMODULE'),
+  ('sympy.polys.densebasic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\densebasic.py',
+   'PYMODULE'),
+  ('sympy.polys.orderings',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\orderings.py',
+   'PYMODULE'),
+  ('sympy.polys.densearith',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\densearith.py',
+   'PYMODULE'),
+  ('sympy.polys.rootoftools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\rootoftools.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpf',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\libmpf.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libelefun',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\libelefun.py',
+   'PYMODULE'),
+  ('mpmath.libmp.backend',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\backend.py',
+   'PYMODULE'),
+  ('sympy.polys.rationaltools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\rationaltools.py',
+   'PYMODULE'),
+  ('sympy.polys.polyfuncs',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyfuncs.py',
+   'PYMODULE'),
+  ('sympy.polys.ring_series',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\ring_series.py',
+   'PYMODULE'),
+  ('sympy.polys.orthopolys',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\orthopolys.py',
+   'PYMODULE'),
+  ('sympy.polys.densetools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\densetools.py',
+   'PYMODULE'),
+  ('sympy.ntheory.factor_',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\factor_.py',
+   'PYMODULE'),
+  ('sympy.ntheory.ecm',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\ecm.py',
+   'PYMODULE'),
+  ('sympy.ntheory.digits',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\digits.py',
+   'PYMODULE'),
+  ('sympy.ntheory.generate',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\generate.py',
+   'PYMODULE'),
+  ('sympy.functions.special.error_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\error_functions.py',
+   'PYMODULE'),
+  ('sympy.series.limits',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\limits.py',
+   'PYMODULE'),
+  ('sympy.calculus.util',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\calculus\\util.py',
+   'PYMODULE'),
+  ('sympy.functions.special.gamma_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\gamma_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.combinatorial.numbers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\combinatorial\\numbers.py',
+   'PYMODULE'),
+  ('sympy.functions.combinatorial',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\combinatorial\\__init__.py',
+   'PYMODULE'),
+  ('sympy.utilities.memoization',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\memoization.py',
+   'PYMODULE'),
+  ('sympy.functions.special.zeta_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\zeta_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special.hyper',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\hyper.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.hyperbolic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\hyperbolic.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.realfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\realfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.mpelements',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\mpelements.py',
+   'PYMODULE'),
+  ('mpmath.rational',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\rational.py',
+   'PYMODULE'),
+  ('mpmath.ctx_mp_python',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\ctx_mp_python.py',
+   'PYMODULE'),
+  ('mpmath.function_docs',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\function_docs.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.domainelement',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\domainelement.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.characteristiczero',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\characteristiczero.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.domain',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\domain.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.old_fractionfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\old_fractionfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.compositedomain',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\compositedomain.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.fractionfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\fractionfield.py',
+   'PYMODULE'),
+  ('sympy.polys.fields',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\fields.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.polynomialring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\polynomialring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.ring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\ring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.quotientring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\quotientring.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.modules',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\agca\\modules.py',
+   'PYMODULE'),
+  ('sympy.polys.distributedmodules',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\distributedmodules.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.homomorphisms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\agca\\homomorphisms.py',
+   'PYMODULE'),
+  ('sympy.polys.agca',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\agca\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.ideals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\agca\\ideals.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.old_polynomialring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\old_polynomialring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.simpledomain',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\simpledomain.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.field',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\field.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.complexfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\complexfield.py',
+   'PYMODULE'),
+  ('sympy.polys.rings',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\rings.py',
+   'PYMODULE'),
+  ('sympy.polys.heuristicgcd',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\heuristicgcd.py',
+   'PYMODULE'),
+  ('sympy.polys.compatibility',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\compatibility.py',
+   'PYMODULE'),
+  ('sympy.ntheory.multinomial',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\multinomial.py',
+   'PYMODULE'),
+  ('sympy.polys.polyroots',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyroots.py',
+   'PYMODULE'),
+  ('sympy.polys.polyquinticconst',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polyquinticconst.py',
+   'PYMODULE'),
+  ('sympy.polys.monomials',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\monomials.py',
+   'PYMODULE'),
+  ('sympy.functions.special.delta_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\delta_functions.py',
+   'PYMODULE'),
+  ('sympy.integrals.singularityfunctions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\singularityfunctions.py',
+   'PYMODULE'),
+  ('sympy.integrals.deltafunctions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\deltafunctions.py',
+   'PYMODULE'),
+  ('sympy.concrete.summations',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\concrete\\summations.py',
+   'PYMODULE'),
+  ('sympy.concrete.delta',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\concrete\\delta.py',
+   'PYMODULE'),
+  ('sympy.concrete.products',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\concrete\\products.py',
+   'PYMODULE'),
+  ('sympy.series.residues',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\residues.py',
+   'PYMODULE'),
+  ('sympy.utilities.timeutils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\timeutils.py',
+   'PYMODULE'),
+  ('timeit',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\timeit.py',
+   'PYMODULE'),
+  ('sympy.series.limitseq',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\limitseq.py',
+   'PYMODULE'),
+  ('sympy.concrete.gosper',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\concrete\\gosper.py',
+   'PYMODULE'),
+  ('sympy.concrete.expr_with_intlimits',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\concrete\\expr_with_intlimits.py',
+   'PYMODULE'),
+  ('sympy.solvers.solvers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\solvers.py',
+   'PYMODULE'),
+  ('sympy.solvers.bivariate',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\bivariate.py',
+   'PYMODULE'),
+  ('sympy.physics.units',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.si',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\systems\\si.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.mksa',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\systems\\mksa.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.mks',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\systems\\mks.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.length_weight_time',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\systems\\length_weight_time.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\systems\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.natural',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\systems\\natural.py',
+   'PYMODULE'),
+  ('sympy.physics.units.definitions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\definitions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.units.definitions.unit_definitions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\definitions\\unit_definitions.py',
+   'PYMODULE'),
+  ('sympy.physics.units.prefixes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\prefixes.py',
+   'PYMODULE'),
+  ('sympy.physics.units.definitions.dimension_definitions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\definitions\\dimension_definitions.py',
+   'PYMODULE'),
+  ('sympy.physics.units.quantities',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\quantities.py',
+   'PYMODULE'),
+  ('sympy.physics.units.util',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\util.py',
+   'PYMODULE'),
+  ('sympy.physics.units.unitsystem',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\unitsystem.py',
+   'PYMODULE'),
+  ('sympy.physics.units.dimensions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\units\\dimensions.py',
+   'PYMODULE'),
+  ('sympy.physics',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\matrices.py',
+   'PYMODULE'),
+  ('sympy.solvers.polysys',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\polysys.py',
+   'PYMODULE'),
+  ('sympy.tensor.functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\functions.py',
+   'PYMODULE'),
+  ('sympy.strategies',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\__init__.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\branch\\__init__.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch.tools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\branch\\tools.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\branch\\core.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch.traverse',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\branch\\traverse.py',
+   'PYMODULE'),
+  ('sympy.strategies.tools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\tools.py',
+   'PYMODULE'),
+  ('sympy.strategies.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\core.py',
+   'PYMODULE'),
+  ('sympy.strategies.util',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\util.py',
+   'PYMODULE'),
+  ('sympy.strategies.traverse',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\traverse.py',
+   'PYMODULE'),
+  ('sympy.strategies.rl',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\rl.py',
+   'PYMODULE'),
+  ('sympy.series.formal',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\formal.py',
+   'PYMODULE'),
+  ('sympy.series.series_class',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\series_class.py',
+   'PYMODULE'),
+  ('sympy.series.sequences',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\sequences.py',
+   'PYMODULE'),
+  ('sympy.discrete.convolutions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\discrete\\convolutions.py',
+   'PYMODULE'),
+  ('sympy.discrete.transforms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\discrete\\transforms.py',
+   'PYMODULE'),
+  ('sympy.series.order',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\order.py',
+   'PYMODULE'),
+  ('sympy.integrals.meijerint',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\meijerint.py',
+   'PYMODULE'),
+  ('sympy.integrals.transforms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\transforms.py',
+   'PYMODULE'),
+  ('sympy.integrals.trigonometry',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\trigonometry.py',
+   'PYMODULE'),
+  ('sympy.integrals.manualintegrate',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\manualintegrate.py',
+   'PYMODULE'),
+  ('sympy.functions.special.polynomials',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\polynomials.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.integers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\integers.py',
+   'PYMODULE'),
+  ('sympy.core.add',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\add.py',
+   'PYMODULE'),
+  ('sympy.tensor.tensor',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\tensor.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.tensor_can',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\tensor_can.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.testutil',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\testutil.py',
+   'PYMODULE'),
+  ('sympy.concrete.expr_with_limits',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\concrete\\expr_with_limits.py',
+   'PYMODULE'),
+  ('sympy.solvers.inequalities',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\inequalities.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\__init__.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.complexes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\complexes.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty.stringpict',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\pretty\\stringpict.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty.pretty_symbology',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\pretty\\pretty_symbology.py',
+   'PYMODULE'),
+  ('sympy.printing.conventions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\conventions.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.sets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\sets.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.permutation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\permutation.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.kronecker',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\kronecker.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.dotproduct',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\dotproduct.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.diagonal',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\diagonal.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.hadamard',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\hadamard.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.adjoint',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\adjoint.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.transpose',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\transpose.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.determinant',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\determinant.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.trace',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\trace.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matpow',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\matpow.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matmul',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\matmul.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matadd',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\matadd.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.inverse',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\inverse.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.funcmatrix',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\funcmatrix.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.companion',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\companion.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.blockmatrix',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\blockmatrix.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.slice',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\slice.py',
+   'PYMODULE'),
+  ('sympy.core.cache',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\cache.py',
+   'PYMODULE'),
+  ('mpmath.matrices.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\matrices\\matrices.py',
+   'PYMODULE'),
+  ('mpmath.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\matrices\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.matrices.eigen_symmetric',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\matrices\\eigen_symmetric.py',
+   'PYMODULE'),
+  ('mpmath.matrices.eigen',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\matrices\\eigen.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matexpr',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\matexpr.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.conv_array_to_matrix',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\conv_array_to_matrix.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.applyfunc',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\applyfunc.py',
+   'PYMODULE'),
+  ('sympy.matrices.solvers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\solvers.py',
+   'PYMODULE'),
+  ('sympy.matrices.eigen',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\eigen.py',
+   'PYMODULE'),
+  ('sympy.matrices.determinant',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\determinant.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.domainmatrix',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\domainmatrix.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.sdm',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\sdm.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.ddm',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\ddm.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.dense',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\dense.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.exceptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.eigen',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\eigen.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.extensions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\agca\\extensions.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\__init__.py',
+   'PYMODULE'),
+  ('sympy.matrices.decompositions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\decompositions.py',
+   'PYMODULE'),
+  ('sympy.utilities.decorator',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\decorator.py',
+   'PYMODULE'),
+  ('sympy.testing.runtests',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\testing\\runtests.py',
+   'PYMODULE'),
+  ('matplotlib',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_template',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_template.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_svg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_svg.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.fontconfig_pattern',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\fontconfig_pattern.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\fractions.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_mixed',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_mixed.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_ps',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_ps.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_pgf',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_pgf.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_pdf',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_pdf.py',
+   'PYMODULE'),
+  ('matplotlib.type1font',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\type1font.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_pdf_ps',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\_backend_pdf_ps.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_qt5agg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_qt5agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_compat',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_compat.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_qt5',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_qt5.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor._formsubplottool',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\_formsubplottool.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor._formlayout',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\_formlayout.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor.figureoptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\figureoptions.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_qt4agg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_qt4agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib._layoutbox',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_layoutbox.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('matplotlib.blocking_input',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('cycler',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\cycler.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triangulation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triplot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tripcolor',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trirefine',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triinterpolate',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tritools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\tritools.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tricontour',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trifinder',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tri\\trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.axes._subplots',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\axes\\_subplots.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tight_layout',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('matplotlib.animation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\animation.py',
+   'PYMODULE'),
+  ('matplotlib._animation_data',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_animation_data.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.tight_bbox',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib._text_layout',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_text_layout.py',
+   'PYMODULE'),
+  ('matplotlib.afm',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\afm.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib.docstring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\docstring.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\cbook\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.cbook.deprecation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\cbook\\deprecation.py',
+   'PYMODULE'),
+  ('sympy.matrices.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\matrices.py',
+   'PYMODULE'),
+  ('sympy.matrices.sparsetools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\sparsetools.py',
+   'PYMODULE'),
+  ('sympy.matrices.inverse',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\inverse.py',
+   'PYMODULE'),
+  ('sympy.matrices.graph',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\graph.py',
+   'PYMODULE'),
+  ('sympy.matrices.subspaces',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\subspaces.py',
+   'PYMODULE'),
+  ('sympy.matrices.reductions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\reductions.py',
+   'PYMODULE'),
+  ('sympy.matrices.common',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\common.py',
+   'PYMODULE'),
+  ('sympy.discrete.recurrences',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\discrete\\recurrences.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.trigonometric',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\trigonometric.py',
+   'PYMODULE'),
+  ('sympy.functions.special.bessel',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\bessel.py',
+   'PYMODULE'),
+  ('sympy.polys.solvers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\solvers.py',
+   'PYMODULE'),
+  ('sympy.polys.domainmatrix',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domainmatrix.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.rewritingsystem',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\rewritingsystem.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.rewritingsystem_fsm',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\rewritingsystem_fsm.py',
+   'PYMODULE'),
+  ('sympy.ntheory.primetest',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\primetest.py',
+   'PYMODULE'),
+  ('sympy.ntheory.residue_ntheory',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\residue_ntheory.py',
+   'PYMODULE'),
+  ('sympy.ntheory.modular',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\modular.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.homomorphisms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\homomorphisms.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.named_groups',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\named_groups.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.generators',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\generators.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.group_constructs',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\group_constructs.py',
+   'PYMODULE'),
+  ('sympy.testing.randtest',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\testing\\randtest.py',
+   'PYMODULE'),
+  ('sympy.functions.combinatorial.factorials',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\combinatorial\\factorials.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.util',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\util.py',
+   'PYMODULE'),
+  ('sympy.combinatorics',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\__init__.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.graycode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\graycode.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.polyhedron',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\polyhedron.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.partitions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\partitions.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.subsets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\subsets.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.prufer',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\combinatorics\\prufer.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libintmath',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\libintmath.py',
+   'PYMODULE'),
+  ('sympy.polys.polytools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\polytools.py',
+   'PYMODULE'),
+  ('sympy.polys.dispersion',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\dispersion.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libhyper',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\libhyper.py',
+   'PYMODULE'),
+  ('mpmath.libmp.gammazeta',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\gammazeta.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpc',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\libmpc.py',
+   'PYMODULE'),
+  ('sympy.polys.groebnertools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\groebnertools.py',
+   'PYMODULE'),
+  ('sympy.polys.fglmtools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\fglmtools.py',
+   'PYMODULE'),
+  ('mpmath.libmp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpi',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\libmp\\libmpi.py',
+   'PYMODULE'),
+  ('sympy.printing.precedence',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\precedence.py',
+   'PYMODULE'),
+  ('sympy.printing.printer',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\printer.py',
+   'PYMODULE'),
+  ('sympy.core.mul',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\mul.py',
+   'PYMODULE'),
+  ('sympy.core.exprtools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\exprtools.py',
+   'PYMODULE'),
+  ('sympy.core.coreerrors',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\coreerrors.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.exponential',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\exponential.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\multipledispatch\\__init__.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\multipledispatch\\core.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.power',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\power.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.mul',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\mul.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.add',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\add.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.intersection',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\intersection.py',
+   'PYMODULE'),
+  ('sympy.solvers.diophantine.diophantine',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\diophantine\\diophantine.py',
+   'PYMODULE'),
+  ('sympy.sets.conditionset',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\conditionset.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.union',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\union.py',
+   'PYMODULE'),
+  ('sympy.sets.setexpr',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\setexpr.py',
+   'PYMODULE'),
+  ('sympy.sets.fancysets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\fancysets.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.miscellaneous',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\elementary\\miscellaneous.py',
+   'PYMODULE'),
+  ('sympy.core.rules',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\rules.py',
+   'PYMODULE'),
+  ('sympy.sets.powerset',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\powerset.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.issubset',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\issubset.py',
+   'PYMODULE'),
+  ('sympy.sets.contains',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\contains.py',
+   'PYMODULE'),
+  ('sympy.logic.boolalg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\logic\\boolalg.py',
+   'PYMODULE'),
+  ('sympy.logic.inference',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\logic\\inference.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.pycosat_wrapper',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\logic\\algorithms\\pycosat_wrapper.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\logic\\algorithms\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.cnf',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\cnf.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.dpll2',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\logic\\algorithms\\dpll2.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.dpll',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\logic\\algorithms\\dpll.py',
+   'PYMODULE'),
+  ('sympy.external.importtools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\external\\importtools.py',
+   'PYMODULE'),
+  ('sympy.core.symbol',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\symbol.py',
+   'PYMODULE'),
+  ('sympy.core.relational',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\relational.py',
+   'PYMODULE'),
+  ('sympy.core.operations',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\operations.py',
+   'PYMODULE'),
+  ('sympy.core.numbers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\numbers.py',
+   'PYMODULE'),
+  ('mpmath.ctx_mp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\ctx_mp.py',
+   'PYMODULE'),
+  ('mpmath.ctx_base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\ctx_base.py',
+   'PYMODULE'),
+  ('mpmath.visualization',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\visualization.py',
+   'PYMODULE'),
+  ('pylab',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\pylab.py',
+   'PYMODULE'),
+  ('matplotlib.pylab',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\matplotlib\\pylab.py',
+   'PYMODULE'),
+  ('mpmath.identification',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\identification.py',
+   'PYMODULE'),
+  ('mpmath.matrices.linalg',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\matrices\\linalg.py',
+   'PYMODULE'),
+  ('mpmath.matrices.calculus',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\matrices\\calculus.py',
+   'PYMODULE'),
+  ('mpmath.calculus.odes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\odes.py',
+   'PYMODULE'),
+  ('mpmath.calculus',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.calculus.polynomials',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\polynomials.py',
+   'PYMODULE'),
+  ('mpmath.calculus.extrapolation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\extrapolation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.differentiation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\differentiation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.approximation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\approximation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.optimization',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\optimization.py',
+   'PYMODULE'),
+  ('mpmath.calculus.calculus',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\calculus.py',
+   'PYMODULE'),
+  ('mpmath.calculus.inverselaplace',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\inverselaplace.py',
+   'PYMODULE'),
+  ('mpmath.calculus.quadrature',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\calculus\\quadrature.py',
+   'PYMODULE'),
+  ('mpmath.functions.rszeta',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\rszeta.py',
+   'PYMODULE'),
+  ('mpmath.functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.functions.qfunctions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\qfunctions.py',
+   'PYMODULE'),
+  ('mpmath.functions.zetazeros',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\zetazeros.py',
+   'PYMODULE'),
+  ('mpmath.functions.zeta',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\zeta.py',
+   'PYMODULE'),
+  ('mpmath.functions.elliptic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\elliptic.py',
+   'PYMODULE'),
+  ('mpmath.functions.theta',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\theta.py',
+   'PYMODULE'),
+  ('mpmath.functions.orthogonal',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\orthogonal.py',
+   'PYMODULE'),
+  ('mpmath.functions.bessel',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\bessel.py',
+   'PYMODULE'),
+  ('mpmath.functions.expintegrals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\expintegrals.py',
+   'PYMODULE'),
+  ('mpmath.functions.hypergeometric',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\hypergeometric.py',
+   'PYMODULE'),
+  ('mpmath.functions.factorials',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\factorials.py',
+   'PYMODULE'),
+  ('mpmath.functions.functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\functions\\functions.py',
+   'PYMODULE'),
+  ('sympy.core.logic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\logic.py',
+   'PYMODULE'),
+  ('sympy.core.expr',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\expr.py',
+   'PYMODULE'),
+  ('sympy.series.fourier',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\fourier.py',
+   'PYMODULE'),
+  ('sympy.core.parameters',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\parameters.py',
+   'PYMODULE'),
+  ('sympy.core.containers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\containers.py',
+   'PYMODULE'),
+  ('sympy.tensor.array',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\__init__.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.array_comprehension',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\array\\array_comprehension.py',
+   'PYMODULE'),
+  ('sympy.utilities.enumerative',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\enumerative.py',
+   'PYMODULE'),
+  ('sympy.core.function',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\function.py',
+   'PYMODULE'),
+  ('sympy.calculus.finite_diff',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\calculus\\finite_diff.py',
+   'PYMODULE'),
+  ('sympy.core.basic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\basic.py',
+   'PYMODULE'),
+  ('sympy.core.singleton',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\singleton.py',
+   'PYMODULE'),
+  ('sympy.external',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\external\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\typing.py',
+   'PYMODULE'),
+  ('sympy.polys.domains',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gaussiandomains',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\gaussiandomains.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonrational',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\pythonrational.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.groundtypes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\groundtypes.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.expressiondomain',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\expressiondomain.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.algebraicfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\algebraicfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gmpyrationalfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\gmpyrationalfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonrationalfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\pythonrationalfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gmpyintegerring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\gmpyintegerring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonintegerring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\pythonintegerring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gmpyfinitefield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\gmpyfinitefield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonfinitefield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\pythonfinitefield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.rationalfield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\rationalfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.integerring',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\integerring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.finitefield',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\finitefield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.modularinteger',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\domains\\modularinteger.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('sympy.interactive.printing',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\interactive\\printing.py',
+   'PYMODULE'),
+  ('sympy.plotting.plot_implicit',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\plot_implicit.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath.lib_interval',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\lib_interval.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath.interval_arithmetic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\interval_arithmetic.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath.interval_membership',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\interval_membership.py',
+   'PYMODULE'),
+  ('sympy.plotting.experimental_lambdify',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\experimental_lambdify.py',
+   'PYMODULE'),
+  ('sympy.plotting.textplot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\textplot.py',
+   'PYMODULE'),
+  ('sympy.plotting.plot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\plot.py',
+   'PYMODULE'),
+  ('sympy.plotting',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.util',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\util.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_window',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_window.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_controller',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_controller.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_camera',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_camera.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_rotation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_rotation.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.managed_window',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\managed_window.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_object',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_object.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_mode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_mode.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_interval',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_interval.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_axes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_axes.py',
+   'PYMODULE'),
+  ('sympy.geometry.entity',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\entity.py',
+   'PYMODULE'),
+  ('sympy.geometry.polygon',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\polygon.py',
+   'PYMODULE'),
+  ('sympy.geometry.exceptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.geometry.ellipse',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\ellipse.py',
+   'PYMODULE'),
+  ('sympy.geometry.util',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\util.py',
+   'PYMODULE'),
+  ('sympy.geometry.plane',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\plane.py',
+   'PYMODULE'),
+  ('sympy.functions.special.elliptic_integrals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\elliptic_integrals.py',
+   'PYMODULE'),
+  ('sympy.geometry.line',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\line.py',
+   'PYMODULE'),
+  ('sympy.geometry.point',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\point.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_modes',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_modes.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_surface',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_surface.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_mode_base',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_mode_base.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.color_scheme',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\color_scheme.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_curve',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_curve.py',
+   'PYMODULE'),
+  ('sympy.testing',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.preview',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\preview.py',
+   'PYMODULE'),
+  ('sympy.printing.jscode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\jscode.py',
+   'PYMODULE'),
+  ('sympy.printing.rcode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\rcode.py',
+   'PYMODULE'),
+  ('sympy.printing.fcode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\fcode.py',
+   'PYMODULE'),
+  ('sympy.printing.cxxcode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\cxxcode.py',
+   'PYMODULE'),
+  ('sympy.printing.ccode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\ccode.py',
+   'PYMODULE'),
+  ('sympy.printing.pycode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\pycode.py',
+   'PYMODULE'),
+  ('sympy.printing.python',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\python.py',
+   'PYMODULE'),
+  ('sympy.printing.mathml',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\mathml.py',
+   'PYMODULE'),
+  ('sympy.vector',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\__init__.py',
+   'PYMODULE'),
+  ('sympy.vector.integrals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\integrals.py',
+   'PYMODULE'),
+  ('sympy.vector.parametricregion',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\parametricregion.py',
+   'PYMODULE'),
+  ('sympy.vector.implicitregion',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\implicitregion.py',
+   'PYMODULE'),
+  ('sympy.vector.operators',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\operators.py',
+   'PYMODULE'),
+  ('sympy.vector.orienters',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\orienters.py',
+   'PYMODULE'),
+  ('sympy.vector.point',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\point.py',
+   'PYMODULE'),
+  ('sympy.vector.functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\functions.py',
+   'PYMODULE'),
+  ('sympy.vector.deloperator',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\deloperator.py',
+   'PYMODULE'),
+  ('sympy.vector.scalar',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\scalar.py',
+   'PYMODULE'),
+  ('sympy.vector.dyadic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\dyadic.py',
+   'PYMODULE'),
+  ('sympy.vector.basisdependent',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\basisdependent.py',
+   'PYMODULE'),
+  ('sympy.vector.vector',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\vector.py',
+   'PYMODULE'),
+  ('sympy.vector.coordsysrect',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\vector\\coordsysrect.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.latex',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\latex.py',
+   'PYMODULE'),
+  ('sympy.categories',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\categories\\__init__.py',
+   'PYMODULE'),
+  ('sympy.categories.diagram_drawing',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\categories\\diagram_drawing.py',
+   'PYMODULE'),
+  ('sympy.categories.baseclasses',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\categories\\baseclasses.py',
+   'PYMODULE'),
+  ('sympy.physics.control',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\control\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.control.lti',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\physics\\control\\lti.py',
+   'PYMODULE'),
+  ('sympy.functions.special.beta_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\beta_functions.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\pretty\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty.pretty',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\pretty\\pretty.py',
+   'PYMODULE'),
+  ('sympy.printing',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.maple',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\maple.py',
+   'PYMODULE'),
+  ('sympy.printing.dot',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\dot.py',
+   'PYMODULE'),
+  ('sympy.printing.tableform',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\tableform.py',
+   'PYMODULE'),
+  ('sympy.printing.tree',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\tree.py',
+   'PYMODULE'),
+  ('sympy.printing.gtk',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\gtk.py',
+   'PYMODULE'),
+  ('sympy.utilities.mathml',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\mathml\\__init__.py',
+   'PYMODULE'),
+  ('sympy.utilities.pkgdata',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\pkgdata.py',
+   'PYMODULE'),
+  ('sympy.printing.rust',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\rust.py',
+   'PYMODULE'),
+  ('sympy.printing.octave',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\octave.py',
+   'PYMODULE'),
+  ('sympy.printing.mathematica',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\mathematica.py',
+   'PYMODULE'),
+  ('sympy.printing.julia',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\julia.py',
+   'PYMODULE'),
+  ('sympy.printing.glsl',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\glsl.py',
+   'PYMODULE'),
+  ('sympy.algebras',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\algebras\\__init__.py',
+   'PYMODULE'),
+  ('sympy.algebras.quaternion',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\algebras\\quaternion.py',
+   'PYMODULE'),
+  ('sympy.calculus.singularities',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\calculus\\singularities.py',
+   'PYMODULE'),
+  ('sympy.calculus',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\calculus\\__init__.py',
+   'PYMODULE'),
+  ('sympy.calculus.euler',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\calculus\\euler.py',
+   'PYMODULE'),
+  ('sympy.parsing',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\parsing\\__init__.py',
+   'PYMODULE'),
+  ('sympy.parsing.sympy_parser',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\parsing\\sympy_parser.py',
+   'PYMODULE'),
+  ('sympy.tensor',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\__init__.py',
+   'PYMODULE'),
+  ('sympy.tensor.index_methods',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\tensor\\index_methods.py',
+   'PYMODULE'),
+  ('sympy.integrals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\integrals\\__init__.py',
+   'PYMODULE'),
+  ('sympy.utilities.source',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\source.py',
+   'PYMODULE'),
+  ('sympy.utilities.lambdify',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\lambdify.py',
+   'PYMODULE'),
+  ('sympy.printing.tensorflow',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\printing\\tensorflow.py',
+   'PYMODULE'),
+  ('sympy.utilities',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\utilities\\__init__.py',
+   'PYMODULE'),
+  ('sympy.geometry',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\__init__.py',
+   'PYMODULE'),
+  ('sympy.geometry.parabola',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\parabola.py',
+   'PYMODULE'),
+  ('sympy.geometry.curve',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\geometry\\curve.py',
+   'PYMODULE'),
+  ('sympy.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\__init__.py',
+   'PYMODULE'),
+  ('sympy.solvers.solveset',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\solveset.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.linsolve',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\matrices\\linsolve.py',
+   'PYMODULE'),
+  ('sympy.solvers.decompogen',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\decompogen.py',
+   'PYMODULE'),
+  ('sympy.solvers.diophantine',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\diophantine\\__init__.py',
+   'PYMODULE'),
+  ('sympy.solvers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\__init__.py',
+   'PYMODULE'),
+  ('sympy.solvers.deutils',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\deutils.py',
+   'PYMODULE'),
+  ('sympy.solvers.pde',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\pde.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\ode\\__init__.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.systems',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\ode\\systems.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.subscheck',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\ode\\subscheck.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.ode',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\ode\\ode.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.single',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\ode\\single.py',
+   'PYMODULE'),
+  ('sympy.core.multidimensional',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\multidimensional.py',
+   'PYMODULE'),
+  ('sympy.solvers.recurr',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\solvers\\recurr.py',
+   'PYMODULE'),
+  ('sympy.sets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\__init__.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.comparison',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\handlers\\comparison.py',
+   'PYMODULE'),
+  ('sympy.sets.ordinals',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\sets\\ordinals.py',
+   'PYMODULE'),
+  ('sympy.simplify.ratsimp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\ratsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.gammasimp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\gammasimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.combsimp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\combsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.powsimp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\powsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.trigsimp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\trigsimp.py',
+   'PYMODULE'),
+  ('sympy.strategies.tree',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\strategies\\tree.py',
+   'PYMODULE'),
+  ('sympy.simplify.radsimp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\radsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.hyperexpand',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\hyperexpand.py',
+   'PYMODULE'),
+  ('sympy.simplify.sqrtdenest',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\sqrtdenest.py',
+   'PYMODULE'),
+  ('sympy.simplify.fu',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\fu.py',
+   'PYMODULE'),
+  ('sympy.simplify.simplify',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\simplify.py',
+   'PYMODULE'),
+  ('sympy.simplify',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\__init__.py',
+   'PYMODULE'),
+  ('sympy.simplify.epathtools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\epathtools.py',
+   'PYMODULE'),
+  ('sympy.simplify.traversaltools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\simplify\\traversaltools.py',
+   'PYMODULE'),
+  ('sympy.discrete',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\discrete\\__init__.py',
+   'PYMODULE'),
+  ('sympy.concrete',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\concrete\\__init__.py',
+   'PYMODULE'),
+  ('sympy.ntheory.egyptian_fraction',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\egyptian_fraction.py',
+   'PYMODULE'),
+  ('sympy.ntheory.continued_fraction',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\continued_fraction.py',
+   'PYMODULE'),
+  ('sympy.ntheory',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\__init__.py',
+   'PYMODULE'),
+  ('sympy.ntheory.qs',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\qs.py',
+   'PYMODULE'),
+  ('sympy.ntheory.partitions_',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\ntheory\\partitions_.py',
+   'PYMODULE'),
+  ('sympy.functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.functions.special.mathieu_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\mathieu_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special.spherical_harmonics',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\spherical_harmonics.py',
+   'PYMODULE'),
+  ('sympy.functions.special.bsplines',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\bsplines.py',
+   'PYMODULE'),
+  ('sympy.functions.special.singularity_functions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\functions\\special\\singularity_functions.py',
+   'PYMODULE'),
+  ('sympy.series.approximants',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\approximants.py',
+   'PYMODULE'),
+  ('sympy.series.series',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\series.py',
+   'PYMODULE'),
+  ('sympy.series.gruntz',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\gruntz.py',
+   'PYMODULE'),
+  ('sympy.series',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\series\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.partfrac',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\polys\\partfrac.py',
+   'PYMODULE'),
+  ('sympy.assumptions.refine',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\refine.py',
+   'PYMODULE'),
+  ('sympy.assumptions.ask',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\ask.py',
+   'PYMODULE'),
+  ('sympy.assumptions.ask_generated',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\ask_generated.py',
+   'PYMODULE'),
+  ('sympy.assumptions.satask',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\satask.py',
+   'PYMODULE'),
+  ('sympy.assumptions.sathandlers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\sathandlers.py',
+   'PYMODULE'),
+  ('sympy.assumptions.relation.equality',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\relation\\equality.py',
+   'PYMODULE'),
+  ('sympy.assumptions.relation',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\relation\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.relation.binrel',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\relation\\binrel.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\predicates\\matrices.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\predicates\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.matrices',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\handlers\\matrices.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.fourier',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\fourier.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.factorizations',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\matrices\\expressions\\factorizations.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.common',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\handlers\\common.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.common',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\predicates\\common.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.ntheory',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\handlers\\ntheory.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.ntheory',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\predicates\\ntheory.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.order',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\handlers\\order.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.order',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\predicates\\order.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.calculus',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\predicates\\calculus.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.calculus',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\handlers\\calculus.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.sets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\predicates\\sets.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.sets',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\handlers\\sets.py',
+   'PYMODULE'),
+  ('sympy.assumptions.assume',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\assume.py',
+   'PYMODULE'),
+  ('sympy.assumptions',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\assumptions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.logic',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\logic\\__init__.py',
+   'PYMODULE'),
+  ('sympy.core.evalf',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\evalf.py',
+   'PYMODULE'),
+  ('sympy.core.sympify',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\sympify.py',
+   'PYMODULE'),
+  ('sympy.core',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\core\\__init__.py',
+   'PYMODULE'),
+  ('sympy.release',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\sympy\\release.py',
+   'PYMODULE'),
+  ('mpmath',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.tests.runtests',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\tests\\runtests.py',
+   'PYMODULE'),
+  ('trace',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\trace.py',
+   'PYMODULE'),
+  ('cProfile',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\cProfile.py',
+   'PYMODULE'),
+  ('pstats',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\pstats.py',
+   'PYMODULE'),
+  ('profile',
+   'c:\\users\\calvin '
+   'yusnoveri\\appdata\\local\\programs\\python\\python36\\lib\\profile.py',
+   'PYMODULE'),
+  ('mpmath.tests',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\tests\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.ctx_iv',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\ctx_iv.py',
+   'PYMODULE'),
+  ('mpmath.ctx_fp',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\ctx_fp.py',
+   'PYMODULE'),
+  ('mpmath.math2',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\math2.py',
+   'PYMODULE'),
+  ('mpmath.usertools',
+   'c:\\users\\calvin yusnoveri\\desktop\\sutd capstone '
+   't1\\50.039\\50039-im2latex\\venv\\lib\\site-packages\\mpmath\\usertools.py',
+   'PYMODULE')])

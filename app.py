@@ -94,12 +94,12 @@ class Main(qtw.QWidget, Ui_Form):
 
 		# render image and save as png
 		now = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-		self.out_path = f"./data/output/{now}.png"
+		self.out_path = f"./{now}.png"
 
 		try:
 			latex = sympy.preview(self.latex_text, viewer='file', filename=self.out_path)
-		except Error as e:
-			print(f'Error! {e}')
+		except:
+			print(f'Error! Failed to render and/or save image.')
 
 		self.out_image = ''
 		self.out_label = ''
