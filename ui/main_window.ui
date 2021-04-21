@@ -7,11 +7,11 @@
     <x>0</x>
     <y>0</y>
     <width>1120</width>
-    <height>950</height>
+    <height>552</height>
    </rect>
   </property>
   <property name="sizePolicy">
-   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+   <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
     <horstretch>0</horstretch>
     <verstretch>0</verstretch>
    </sizepolicy>
@@ -25,7 +25,7 @@
      <x>4</x>
      <y>10</y>
      <width>1111</width>
-     <height>101</height>
+     <height>71</height>
     </rect>
    </property>
    <property name="font">
@@ -44,7 +44,7 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>130</y>
+     <y>90</y>
      <width>151</width>
      <height>51</height>
     </rect>
@@ -62,8 +62,8 @@
    <property name="geometry">
     <rect>
      <x>170</x>
-     <y>130</y>
-     <width>681</width>
+     <y>90</y>
+     <width>781</width>
      <height>51</height>
     </rect>
    </property>
@@ -77,30 +77,38 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>600</y>
+     <y>380</y>
      <width>1101</width>
-     <height>341</height>
+     <height>161</height>
     </rect>
    </property>
-   <layout class="QVBoxLayout" name="outputImageLayout"/>
+   <layout class="QVBoxLayout" name="outputImageLayout">
+    <property name="sizeConstraint">
+     <enum>QLayout::SetMinimumSize</enum>
+    </property>
+   </layout>
   </widget>
   <widget class="QWidget" name="verticalLayoutWidget_2">
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>190</y>
+     <y>150</y>
      <width>1101</width>
-     <height>341</height>
+     <height>161</height>
     </rect>
    </property>
-   <layout class="QVBoxLayout" name="inputImageLayout"/>
+   <layout class="QVBoxLayout" name="inputImageLayout">
+    <property name="sizeConstraint">
+     <enum>QLayout::SetMinimumSize</enum>
+    </property>
+   </layout>
   </widget>
   <widget class="QLineEdit" name="latexFormulaEdit">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>540</y>
-     <width>1101</width>
+     <x>170</x>
+     <y>320</y>
+     <width>781</width>
      <height>51</height>
     </rect>
    </property>
@@ -113,9 +121,9 @@
   <widget class="QPushButton" name="translateButton">
    <property name="geometry">
     <rect>
-     <x>990</x>
-     <y>130</y>
-     <width>121</width>
+     <x>10</x>
+     <y>320</y>
+     <width>151</width>
      <height>51</height>
     </rect>
    </property>
@@ -131,9 +139,9 @@
   <widget class="QPushButton" name="loadImageButton">
    <property name="geometry">
     <rect>
-     <x>860</x>
-     <y>130</y>
-     <width>121</width>
+     <x>960</x>
+     <y>90</y>
+     <width>151</width>
      <height>51</height>
     </rect>
    </property>
@@ -143,7 +151,25 @@
     </font>
    </property>
    <property name="text">
-    <string>Load</string>
+    <string>Load Image</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="translateButton_2">
+   <property name="geometry">
+    <rect>
+     <x>960</x>
+     <y>320</y>
+     <width>151</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Render</string>
    </property>
   </widget>
  </widget>

@@ -44,10 +44,12 @@ class Main(qtw.QWidget, Ui_Form):
 		self.file_path = qtw.QFileDialog.getOpenFileName(self, 'Open file', '.',
 		                                                 "Image files (*.jpg *.png)")[0]
 
-		# check if path is loaded properly, then update
+		# self.file_path = "./data/formula_images/0000ca7c3d3830b_basic.png" # for testing
+		# check if path is loaded properly, then update and load image
 		if not self.file_path: return
 		self.filePathEdit.setText(self.file_path)
 		print(self.file_path)
+		self.load_image()
 
 	def load_image(self):
 		"""
@@ -62,11 +64,12 @@ class Main(qtw.QWidget, Ui_Form):
 			print("File not found!")
 			return
 
-		# load image and show as label
+		# load image, set as label, align center and show label
 		self.image = qtg.QPixmap(self.file_path)
 		self.image_label = qtw.QLabel()
 		self.image_label.setPixmap(self.image)
 		self.inputImageLayout.addWidget(self.image_label)
+		self.inputImageLayout.setAlignment(qtc.Qt.AlignHCenter)
 		self.show()
 
 	def translate_to_latex(self):
@@ -91,6 +94,9 @@ class Main(qtw.QWidget, Ui_Form):
 		self.move(x, y)
 
 	def clear_layout(self, layout):
+		"""
+		clear all widget within a layout
+		"""
 		while layout.count() > 0:
 			exist = layout.takeAt(0)
 			if not exist: continue
