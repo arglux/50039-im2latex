@@ -9,6 +9,7 @@ from PyQt5 import QtGui as qtg
 
 from ui.main_window import Ui_Form
 from predict import predict
+from PIL import Image
 
 class Main(qtw.QWidget, Ui_Form):
 	"""
@@ -104,7 +105,10 @@ class Main(qtw.QWidget, Ui_Form):
 		self.out_path = f"./{now}.png"
 
 		try:
-			latex = sympy.preview(self.latex_text, viewer='file', filename=self.out_path)
+			print(f"rendering: {self.latex_text}")
+			latex = sympy.preview(self.latex_text, viewer='file', filename=self.out_path,
+			                      dvioptions=['-D', '200', '-bg', 'Transparent'])
+
 		except:
 			error_msg = 'Error! Failed to render and/or save image.'
 			self.latexFormulaEdit.setText(error_msg)
