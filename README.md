@@ -18,13 +18,13 @@ By running `.exe` (Windows Only):
 Some interesting results:
 
 Perfectly transcribed:
-![perfect](asset/result-1.png)
+![perfect](asset/result-1.PNG)
 
 Transcribed with some mistakes:
-![some-mistakes](asset/result-2.png)
+![some-mistakes](asset/result-2.PNG)
 
 Transcribed from a raw snipped image:
-![from-raw-snippet](asset/result-4.png)
+![from-raw-snippet](asset/result-4.PNG)
 
 ## Notes
 
