@@ -9,10 +9,6 @@ By using Python
 2. Run `pip install -r requirements.txt`
 3. Run `app.py` using Python or run `python app.py` from command line
 
-By running `.exe` (Windows Only):
-1. Open `dist` folder
-2. Double click `app.exe`
-
 ## Results
 
 Some interesting results:
