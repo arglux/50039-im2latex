@@ -14,6 +14,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+/build/
+/dist/
+*.spec
 .Python
 develop-eggs/
 downloads/
