@@ -8,6 +8,7 @@ from PyQt5 import QtWidgets as qtw
 from PyQt5 import QtGui as qtg
 
 from ui.main_window import Ui_Form
+from predict import predict
 
 class Main(qtw.QWidget, Ui_Form):
 	"""
@@ -82,15 +83,21 @@ class Main(qtw.QWidget, Ui_Form):
 		get latex translation, update latex_text, then update the formula box
 		"""
 		# get latext_text translation and update line edit
-		self.latex_text = r"$${}$$".format(r"\int {a^{2}+b^{2}} = \frac{c^{2}}{d^{2}}")
-		self.latexFormulaEdit.setText(self.latex_text)
-		print("latext_text:", self.latex_text)
+		try:
+			self.latex_text = r'$$ {} $$'.format(predict(self.file_path))
+			self.latexFormulaEdit.setText(self.latex_text)
+			print("latext_text:", self.latex_text)
+		except:
+			error_msg = 'Error! Translation of Image to LaTeX failed.'
+			self.latexFormulaEdit.setText(error_msg)
+			print(error_msg)
 
 	def render_latex(self):
 		"""
 		given latex_text, render png
 		"""
 		self.clear_layout(self.outputImageLayout)
+		self.latex_text = self.latexFormulaEdit.text()
 
 		# render image and save as png
 		now = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
@@ -99,7 +106,9 @@ class Main(qtw.QWidget, Ui_Form):
 		try:
 			latex = sympy.preview(self.latex_text, viewer='file', filename=self.out_path)
 		except:
-			print(f'Error! Failed to render and/or save image.')
+			error_msg = 'Error! Failed to render and/or save image.'
+			self.latexFormulaEdit.setText(error_msg)
+			print(error_msg)
 
 		self.out_image = ''
 		self.out_label = ''
