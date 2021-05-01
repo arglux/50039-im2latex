@@ -8,6 +8,7 @@ By using Python
 1. Open command line or terminal
 2. Run `pip install -r requirements.txt`
 3. Run `app.py` using Python or run `python app.py` from command line
+4. Some sample images are provided in `asset` directory
 
 ## Results
 
